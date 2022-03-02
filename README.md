@@ -5,8 +5,11 @@ So we figured it'd be a good exercise for us to try and implement a basic, commo
 ## Languages and Frameworks Implemented:
 
 [] Python (FastAPI)
+
 [] Elixir Phoenix
+
 [] Rust Rocket
+
 
 # API Specifications:
 ### Sign-Up Endpoint

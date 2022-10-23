@@ -1,0 +1,31 @@
+{
+  "name": "message-board-api",
+  "version": "1.0.0",
+  "description": "The API features a login/signup endpoint, CRUD operations on a post, search operation and reply operations. Built with Vanilla Node.js without any frameworks for learning purpose. `` (Search and reply operations are yet to be applied) `` These basic features **must be implemented** in every framework. Extra features can be added as well.",
+  "main": "Controller.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshai-2909/Message-Board-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshai-2909/Message-Board-API/issues"
+  },
+  "homepage": "https://github.com/Akshai-2909/Message-Board-API#readme",
+  "dependencies": {
+    "cookie": "^0.5.0",
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.19",
+    "pg": "^8.7.3",
+    "uuid": "^8.3.2"
+  }
+}
